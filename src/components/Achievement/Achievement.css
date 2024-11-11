@@ -23,8 +23,8 @@
 }
 
 .achievement-body h4 {
-    font-size: 1.75rem;
-    font-family: 'Caveat', cursive;
+    font-size: 1.4rem;
+    font-family: var(--primaryFont);
     font-weight: 400;
 }
 
@@ -109,8 +109,8 @@
 }
 
 .achievecard-imgcontainer > img {
-    width: 150px;
-    height: 130px;
+    width: 225px;
+    height: 140px;
     border-radius: 10px;
 }
 

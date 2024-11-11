@@ -74,6 +74,10 @@ import unity from '../assets/svg/skills/unity.svg'
 import wolframalpha from '../assets/svg/skills/wolframalpha.svg'
 
 import canva from '../assets/svg/skills/canva.svg'
+import spring from '../assets/svg/skills/spring.svg'
+import nodejs from '../assets/svg/skills/nodejs.svg'
+import kubernetes from '../assets/svg/skills/kubernetes.svg'
+import jira from '../assets/svg/skills/jira.svg'
 
 
 export const skillsImage = (skill) => {
@@ -227,6 +231,14 @@ export const skillsImage = (skill) => {
             return wolframalpha;
         case 'canva':
             return canva;
+        case 'spring':
+            return spring;
+        case 'kubernetes':
+            return kubernetes;
+        case 'jira':
+            return jira;
+        case 'nodejs':
+            return nodejs;
         default:
             break;
     }

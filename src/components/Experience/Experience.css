@@ -24,7 +24,7 @@
 .experience-description > h1 {
     font-size: 3.5rem;
     font-family: var(--primaryFont);
-    margin-bottom: 2rem;
+    margin-bottom: 3.5rem;
 }
 
 .experience-card {
@@ -33,7 +33,7 @@
     align-items:flex-start;
     justify-content: flex-start;
     width: 90%;
-    height: 140px;
+    height: 225px;
     padding: 1.5rem;
     border-radius: 20px;
     margin-bottom: 1.5rem;
@@ -76,6 +76,12 @@
     font-family: var(--primaryFont);
     font-size: 1.15rem;
     font-weight: 600;
+}
+
+.experience-details > p {
+    font-family: var(--primaryFont);
+    font-size: 1rem;
+    font-weight: 400;
 }
 
 .experience-image {

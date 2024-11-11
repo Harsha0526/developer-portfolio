@@ -1,30 +1,23 @@
 export const achievementData = {
-    bio : "Putting quantified achievements on a resume is great, but I just don’t work with hard numbers. I have no data to support the quality of my work. If you have lots of relevant experience, the heading statement of your resume will be a summary.",
+    bio : "Demonstrated exceptional problem-solving skills by leveraging advanced technologies to enhance data processing, improve system security, and streamline development processes.",
     achievements : [
         {
             id : 1,
-            title : 'Google Cloud certification',
-            details : 'Google Cloud certifications validate your expertise and showcase your ability to transform businesses with Google Cloud technology.',
-            date : 'Aug 20, 2019',
+            title : 'AWS Cloud Practitioner Certification',
+            details : 'Validated expertise in AWS cloud services, including core services, security, and architecture principles.',
+            date : 'August 2023',
             field : 'Automation',
-            image : 'https://images.unsplash.com/photo-1573141597928-403fcee0e056?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80'
+            image : 'https://media.licdn.com/dms/image/v2/D4D12AQHVBiVr2QA0Gw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1675414528361?e=2147483647&v=beta&t=Cnf5oqFDRu-uJ1ArSToZb3Yn0UYQbFhcEYV0OtM9V5I'
         },
         {
             id : 2,
-            title : 'AWS Certification',
-            details : 'Validate technical skills and cloud expertise to grow your career and business.',
-            date : 'Aug 20, 2019',
+            title : 'Accelerated Data Processing:',
+            details : 'Deployed real-time data streaming with Apache Kafka on AWS EC2, increasing processing speed by 40%',
+            date : 'August 2023',
             field : 'Automation',
-            image : 'https://images.unsplash.com/photo-1523474253046-8cd2748b5fd2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80'
+            image : 'https://dt-cdn.net/hub/logos/apache-kafka.png'
         },
-        {
-            id : 3,
-            title : 'Professional Data Engineer Certification',
-            details : 'Professional Data Engineers enable data-driven decision making by collecting, transforming, and publishing data.',
-            date : 'Aug 20, 2019',
-            field : 'Automation',
-            image : 'https://images.unsplash.com/photo-1489389944381-3471b5b30f04?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80'
-        }
+        
 
     ]
 }
